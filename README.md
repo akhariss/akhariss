@@ -70,11 +70,9 @@ I enjoy experimenting, learning fast, and refining my core stack through real pr
   <img src="https://github-profile-trophy.vercel.app?username=akhariss&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8" height="150" />
 </div>
 
-<picture>
-![Snake animation](https://raw.githubusercontent.com/akhariss/akhariss/output/snake.svg)
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/akhariss/akhariss/blob/output/github-snake.svg" />
-  <img alt="GitHub Snake Animation" src="https://github.com/akhariss/akhariss/blob/output/github-snake.svg" />
-</picture>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/akhariss/akhariss/output/snake.svg" alt="GitHub contribution snake" />
+</p>
 
 <h2>Get in Touch</h2>
 
