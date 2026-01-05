@@ -71,7 +71,7 @@ I enjoy experimenting, learning fast, and refining my core stack through real pr
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/akhariss/akhariss/blob/output/github-snake-dark.svg" />
+![Snake animation](https://raw.githubusercontent.com/akhariss/akhariss/output/snake.svg)
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/akhariss/akhariss/blob/output/github-snake.svg" />
   <img alt="GitHub Snake Animation" src="https://github.com/akhariss/akhariss/blob/output/github-snake.svg" />
 </picture>
