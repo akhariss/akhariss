@@ -1,5 +1,13 @@
 <h1 align="center">Hey, I'm Abdul Kharis</h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1200&color=EC4899&center=true&vCenter=true&width=650&lines=Backend-focused+Web+Developer;JavaScript+%26+PostgreSQL;REST+APIs+and+Data-driven+Systems" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A855F7,100:EC4899&height=2" />
+
+<br/>
+
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="30" />
   <img width="4" />
@@ -11,25 +19,23 @@
   <img width="4" />
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" height="30" />
   <img width="4" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="30" />
-  <img width="4" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="30" />
-  <img width="4" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="30" />
-  <img width="4" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="30" />
 </div>
 
+<br/>
+
 <div align="center">
   <a href="https://www.linkedin.com/in/abdul-kharis/">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:abdulkharis2234@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
 
-<p align="center">Available for opportunities • Indonesia</p>
+<p align="center">Available for opportunities • Indonesia 🇮🇩</p>
+
+<br/>
 
 <h2>About</h2>
 
@@ -39,7 +45,7 @@ I primarily work with <b>JavaScript</b> and <b>PHP</b> to build REST APIs, backe
 </p>
 
 <p>
-While I’m comfortable working across the stack, my main strength lies in designing backend systems,
+While I’m comfortable working across the stack, my main strength lies in designing backend systems —
 from database schema design to authentication flows and clean API architecture.
 I enjoy experimenting, learning fast, and refining my core stack through real projects.
 </p>
@@ -47,7 +53,7 @@ I enjoy experimenting, learning fast, and refining my core stack through real pr
 <h2>Core Skills</h2>
 
 <ul>
-  <li><b>Backend Development:</b> REST API (Node.js, Express, PHP), authentication (JWT), backend logic & data flow</li>
+  <li><b>Backend Development:</b> REST APIs (Node.js, Express, PHP), authentication (JWT), backend logic & data flow</li>
   <li><b>Database:</b> PostgreSQL, relational schema design, basic indexing & query optimization, PL/pgSQL (basic)</li>
   <li><b>Programming Languages:</b> JavaScript (primary), PHP, TypeScript (growing), Python (scripting & experimentation)</li>
   <li><b>Frontend (supporting):</b> HTML5, CSS3, modern JavaScript for full-stack needs</li>
@@ -70,16 +76,18 @@ I enjoy experimenting, learning fast, and refining my core stack through real pr
   <img src="https://github-profile-trophy.vercel.app?username=akhariss&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8" height="150" />
 </div>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/akhariss/akhariss/output/snake.svg" alt="GitHub contribution snake" />
-</p>
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/akhariss/akhariss/output/snake.svg" alt="GitHub Snake Animation" />
+</div>
 
 <h2>Get in Touch</h2>
 
 <p>
-Email: <a href="mailto:abdulkharis2234@gmail.com">abdulkharis2234@gmail.com</a><br>
-LinkedIn: <a href="https://www.linkedin.com/in/abdul-kharis/">linkedin.com/in/abdul-kharis</a><br>
-GitHub: <a href="https://github.com/akhariss">github.com/akhariss</a>
+📧 Email: <a href="mailto:abdulkharis2234@gmail.com">abdulkharis2234@gmail.com</a><br/>
+💼 LinkedIn: <a href="https://www.linkedin.com/in/abdul-kharis/">linkedin.com/in/abdul-kharis</a><br/>
+🐙 GitHub: <a href="https://github.com/akhariss">github.com/akhariss</a>
 </p>
 
 <p>
