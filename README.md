@@ -67,7 +67,7 @@ I learn by building, experimenting, and improving things step by step.
 <h2> GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=akhariss&theme=dracula&column=-1&row=1&margin-w=6&margin-h=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=akhariss&theme=radical" />
 </div>
 
 <p align="center">
