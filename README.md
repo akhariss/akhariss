@@ -66,6 +66,10 @@ I learn by building, experimenting, and improving things step by step.
 
 <h2> GitHub Stats</h2>
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=akhariss&theme=radical" />
+</div>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/akhariss/akhariss/output/snake.svg" alt="GitHub Snake Animation" />
 </p>
@@ -78,7 +82,7 @@ I learn by building, experimenting, and improving things step by step.
 <h2> WakaTime Stats</h2>
 
 <div align="center">
-  <img src="wakatime/stats.svg?v=1" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=abdul%20kharis&theme=radical&hide_border=false&langs_count=8" />
 </div>
 
 <!-- THIN DIVIDER -->
