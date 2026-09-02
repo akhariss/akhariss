@@ -23,8 +23,9 @@ jobs:
         run: |
           set -euo pipefail
           mkdir -p wakatime
-          # Tambahkan parameter theme=midnight_violet jika didukung oleh API tersebut
-          curl -fsSL "https://wakatime-readme-stats.vercel.app/api/wakatimeStats?username=$GITHUB_ACTOR&api_key=$WAKATIME_API_KEY&github_token=$GITHUB_TOKEN&theme=midnight_violet" \
+          # Ganti "akhariss" di bawah ini dengan username WakaTime Anda jika berbeda
+          WAKA_USER="akhariss" 
+          curl -fsSL "https://wakatime-readme-stats.vercel.app/api?username=$WAKA_USER&api_key=$WAKATIME_API_KEY&theme=midnight_violet" \
             -o wakatime/stats.svg
 
       - name: Bump README cache-buster for wakatime/stats.svg (daily)
