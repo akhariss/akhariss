@@ -79,6 +79,20 @@ I learn by building, experimenting, and improving things step by step.
   <img src="https://capsule-render.vercel.app/api?type=rect&color=A855F7&height=2" width="100%" />
 </p>
 
+<h2> WakaTime Stats</h2>
+
+<div align="center">
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+</div>
+
+<!-- THIN DIVIDER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=A855F7&height=2" width="100%" />
+</p>
+
 <h2> Get in Touch</h2>
 
 - Email: <a href="mailto:abdulkharis2234@gmail.com">abdulkharis2234@gmail.com</a>  
